@@ -3,40 +3,40 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "prueba"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "prueba-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "prueba-identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "prueba-management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "prueba-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "prueba-landingzones"
     },
     "enableAMBAConnectivity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBALandingZone": {
       "value": "Yes"
     },
     "enableAMBAManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAServiceHealth": {
       "value": "Yes"
     },
     "enableAMBANotificationAssets": {
-      "value": "Yes"
+      "value": "No"
     },
     "telemetryOptOut": {
       "value": "No"
@@ -52,7 +52,7 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "westeurope"
         }
       }
     },
@@ -69,7 +69,7 @@
     "policyAssignmentParametersNotificationAssets": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": ""
+          "value": "kevin.guana@outlook.com"
         },
         "ALZLogicappResourceId": {
           "value": ""
