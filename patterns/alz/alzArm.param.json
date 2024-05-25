@@ -18,7 +18,7 @@
       "value": "prueba-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "prueba-landingzones"
+      "value": "prueba"
     },
     "enableAMBAConnectivity": {
       "value": "No"
@@ -27,7 +27,7 @@
       "value": "No"
     },
     "enableAMBALandingZone": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAManagement": {
       "value": "No"
